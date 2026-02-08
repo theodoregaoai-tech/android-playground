@@ -9,6 +9,5 @@
 .cxx
 local.properties
 app/build
-_plans/
 _test/
 mvvm_refactoring/
